@@ -71,7 +71,7 @@ This README walks through how the analysis supports or challenges this hypothesi
 
 ---
 
-## 4. Key Findings (Story from Narrow → Broad)
+## 4. Key Findings
 
 ### 4.1 Demographic Overview
 
