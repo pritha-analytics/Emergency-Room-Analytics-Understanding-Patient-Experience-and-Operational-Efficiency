@@ -170,14 +170,4 @@ The analysis starts from a narrow hypothesis that **operational metrics drive sa
 **System characterization:**  
 The ER appears **operationally mature and stable**, with no obvious structural bottlenecks or fairness issues in the measured variables.
 
-**Opportunities for improvement:**
-
-- Streamline pathways for low‑acuity cases.
-- Reduce moderate wait times further where feasible.
-- Focus on patient experience levers:
-  - Communication quality
-  - Expectation management
-  - Perception of care
-- Improve completeness and consistency of referral documentation (`Unknown/No Referral`).
-
 ---
